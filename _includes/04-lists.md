@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Mechanical Engineer
+  - CAE
+  - Vehicle Dynamics
+- Software Developer
+  - Matlab
+  - Python
+  - Dart/Flutter
