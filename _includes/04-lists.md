@@ -1,0 +1,7 @@
+- Mechanical Engineer
+  - CAE
+  - Vehicle Dynamics
+- Software Developer
+  - Matlab
+  - Python
+  - Dart/Flutter
